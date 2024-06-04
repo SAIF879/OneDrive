@@ -12,7 +12,7 @@ import androidx.navigation.NavController
 fun HomeScreen(navController: NavController){
     
     Box(modifier = Modifier.fillMaxSize()){
-       Text(text = "asdasdsaaa") 
+
     }
 
 }
